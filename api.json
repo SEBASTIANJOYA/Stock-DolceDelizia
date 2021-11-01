@@ -1,0 +1,74 @@
+[
+    {
+      "precio": 3500,
+      "id": 1,
+      "title": "Postres",
+      "thumbnailUrl": "./recursos/1.jpeg"
+    },
+    {
+      "precio": 8000,
+      "id": 2,
+      "title": "Desayuno",
+      "thumbnailUrl": "./recursos/2.jpeg"
+    },
+    {
+      "precio": 6000,
+      "id": 3,
+      "title": "Wafles de Pollo",
+      "thumbnailUrl": "./recursos/3.jpeg"
+    },
+    {
+      "precio": 5500,
+      "id": 4,
+      "title": "Banana Split",
+      "thumbnailUrl": "./recursos/4.jpeg"
+    },
+    {
+      "precio": 5000,
+      "id": 5,
+      "title": "Helado",
+      "thumbnailUrl": "./recursos/5.jpeg"
+    },
+    {
+      "precio": 8500,
+      "id": 6,
+      "title": "Hot Dog",
+      "thumbnailUrl": "./recursos/6.jpeg"
+    },
+    {
+        "precio": 25000,
+        "id": 7,
+        "title": "Pizza",
+        "thumbnailUrl": "./recursos/7.jpeg"
+      },
+      {
+        "precio": 8500,
+        "id": 8,
+        "title": "Nachos",
+        "thumbnailUrl": "./recursos/8.jpeg"
+      },
+      {
+        "precio": 2500,
+        "id": 9,
+        "title": "ArrozLeche",
+        "thumbnailUrl": "./recursos/9.jpeg"
+      },
+      {
+        "precio": 6500,
+        "id": 10,
+        "title": "Mantecada",
+        "thumbnailUrl": "./recursos/10.jpeg"
+      },
+      {
+        "precio": 3500,
+        "id": 11,
+        "title": "Jugos",
+        "thumbnailUrl": "./recursos/11.jpeg"
+      },
+      {
+        "precio": 15000,
+        "id": 12,
+        "title": "Rose Waffle",
+        "thumbnailUrl": "./recursos/12.jpeg"
+      }
+  ]
